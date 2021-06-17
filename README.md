@@ -3,9 +3,9 @@
 #### Front End Developer & Traveler :earth_americas:
 
 
-:round_pushpin: Where I am now? Buenos Aires, Argentina
-:bulb: I'm currently improving my problem solving skills. How? Doing challenges, solving taks at Hackerrank
-:book: In continous process of keep learning React and Jest (learning never ends for me)
+:round_pushpin: Where I am now? Buenos Aires, Argentina. 
+:bulb: I'm currently improving my problem solving skills. How? Doing challenges, solving taks at Hackerrank. 
+:book: In continous process of keep learning React and Jest (learning never ends for me).   
 :mag_right: I’m looking to collaborate on a company that is aligned with my purpose. That's right, I want to help to make this world a better place to live.
 
 
