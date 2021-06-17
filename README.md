@@ -12,7 +12,7 @@ const about = {
 ```
 
 
-:round_pushpin:&nbsp;Where I am now? Buenos Aires, Argentina.\
+:round_pushpin: &nbsp; Where I am now? Buenos Aires, Argentina.\
 
 :bulb:&nbsp;I'm currently improving my problem solving skills. How? Doing challenges, solving taks at Hackerrank.\
 
