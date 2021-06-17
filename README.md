@@ -22,6 +22,11 @@ const about = {
 
 ⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching. Help other people makes me feel more alive
 
+📫 How to reach me: 
+http://github.com - automatic!
+[LinkedIn](https://www.linkedin.com/in/rochajulianacarolina/)
+
+
 
 
 <!--
