@@ -20,7 +20,7 @@ const about = {
 
 :mag_right: &nbsp; I’m looking to collaborate on a company that is aligned with my purpose. That's right, I want to help to make this world a better place to live.
 
-⚡ Fun facts: &nbsp; I'm an enthusiastic of life coaching. Help other people makes me feel more alive
+⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching. Help other people makes me feel more alive
 
 
 
