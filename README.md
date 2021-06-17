@@ -26,7 +26,7 @@ const about = {
 [LinkedIn Profile](https://www.linkedin.com/in/rochajulianacarolina/)
 
 
-##### Something that I always remember myself: Code, improve, get better, keep learning.. but never forget to HAVE FUN ✨ 
+#### Something that I always remember myself: Code, improve, get better, keep learning.. but never forget to HAVE FUN ✨ 
 
 
 ![Image of Coding](https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
