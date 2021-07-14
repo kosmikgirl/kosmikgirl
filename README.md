@@ -20,7 +20,7 @@ const about = {
 
 :mag_right: &nbsp; I’m looking to collaborate on a company that is aligned with my purpose. That's right, I want to help to make this world a better place to live.
 
-⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching. Help other people makes me feel more alive. Also, I own a specialty coffee shop in Buenos Aires. Eternal love for good coffee and people.
+⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching. Help other people makes me feel more alive. Also, I am one of the founders of a specialty coffee shop in Buenos Aires. Eternal love for good coffee and people.
 
 📫  &nbsp; How to reach me: 
 [LinkedIn Profile](https://www.linkedin.com/in/rochajulianacarolina/)
