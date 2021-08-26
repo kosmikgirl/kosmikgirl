@@ -14,7 +14,7 @@ const about = {
 
 :round_pushpin: &nbsp; Where I am now? Buenos Aires, Argentina.
 
-:bulb: &nbsp; I'm currently improving my problem solving skills. How? Doing challenge && solving tasks at Hackerrank.
+:bulb: &nbsp; I'm currently (and always) improving my problem solving skills. How? Doing challenges && solving tasks at Hackerrank (yay).
 
 :book: &nbsp; In continuous process of keep learning Front End Technologies. React lover.
 
