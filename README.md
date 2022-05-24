@@ -1,4 +1,4 @@
-### Hi there! I'm Julz :woman_technologist: 🫶
+### Hi there! I'm Julz 👩🏽‍💻 🫶
 
 #### Front End Developer & Traveler :earth_americas:
 
