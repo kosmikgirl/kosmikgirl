@@ -7,7 +7,7 @@
 const about = {
   name: "Juliana Rocha",
   pronouns: "she | her",
-  skills: ["HTML", "CSS", "SASS/LESS", "ES6", "React", "Jest", "Git", "..."]
+  skills: ["HTML", "CSS", "SASS/LESS", "Javascript", "React", "Jest", "Git", "Lit", "Firebase", "Node", "..."]
 }
 ```
 
@@ -16,7 +16,7 @@ const about = {
 
 :bulb: &nbsp; I'm currently (and always) improving my problem solving skills. How? Doing challenges && solving tasks at Hackerrank (yay).
 
-:book: &nbsp; In continuous process of keep learning Front End Technologies. React lover.
+:book: &nbsp; In continuous process of keep learning Front End Technologies. React lover. Learning Lit.
 
 :mag_right: &nbsp; I’m looking to collaborate on a company that is aligned with my purpose. That's right, I want to help to make this world a better place to live.
 
