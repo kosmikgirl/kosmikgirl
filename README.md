@@ -18,7 +18,7 @@ const about = {
 
 :book: &nbsp; In continuous process of keep learning Front End Technologies. React lover. Learning Lit.dev and Vue3.
 
-:mag_right: &nbsp; I’m looking to collaborate on a company that is aligned with my purpose. That's right, I want to help to make this world a better place to live.
+:mag_right: &nbsp; I’m not looking for something specific right now. I just want to do whatever is aligned with my purpose. I want to do whatever needs to be done to make this world a better place to live. Main focus on building websites or apps to conscious companies/start-ups/scale ups that understand why life-work balance is extremely important for our quality of life as human beings.
 
 ⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching and development. Help other people makes me feel more alive. Also, I am one of the founders of a specialty coffee shop in Buenos Aires. Eternal love for good coffee and people.
 
