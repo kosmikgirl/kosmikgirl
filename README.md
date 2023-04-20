@@ -20,7 +20,7 @@ const about = {
 
 :mag_right: &nbsp; I’m not looking for something specific right now. I just want to do whatever is aligned with my purpose. I want to do whatever needs to be done to make this world a better place to live. Main focus on building websites or apps to conscious companies/start-ups/scale ups that understand why life-work balance is extremely important for our quality of life as human beings.
 
-⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching and development. Help other people makes me feel more alive. Also, I am one of the founders of a specialty coffee shop in Buenos Aires. Eternal love for good coffee and people.
+⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching and development. Accompany other people to achieve their goals makes me feel more alive. Also, I am one of the founders of a specialty coffee shop in Buenos Aires. Infinite love for good coffee and people with out misterious human mind.
 
 📫  &nbsp; How to reach me: 
 [LinkedIn Profile](https://www.linkedin.com/in/rochajulianacarolina/)
