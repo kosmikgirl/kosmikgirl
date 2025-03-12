@@ -12,13 +12,13 @@ const about = {
 ```
 
 
-:round_pushpin: &nbsp; Where I am now? Hilversum, Netherlands.
+:round_pushpin: &nbsp; Where I am now? Buenos Aires, Argentina.
 
-:bulb: &nbsp; I'm currently (and always) improving my problem solving skills. How? Doing challenges && solving tasks at Hackerrank (yay).
+:bulb: &nbsp; I'm currently (and always) improving my problem solving skills. How? Doing challenges && solving tasks at my daily life.
 
-:book: &nbsp; In continuous process of keep learning Front End Technologies. React lover. Learning Lit.dev and Vue3.
+:book: &nbsp; In continuous process of keep learning Front End Technologies. React and Next.js lover. I am an animation fan.
 
-:mag_right: &nbsp; I’m not looking for something specific right now. I just want to do whatever is aligned with my purpose. I want to do whatever needs to be done to make this world a better place to live. Main focus on building websites or apps to conscious companies/start-ups/scale ups that understand why life-work balance is extremely important for our quality of life as human beings.
+:mag_right: &nbsp; I’m not looking for something specific right now. I just want to do what is aligned with my purpose. I want to do whatever needs to be done to make this world a better place to live. Main focus on building websites or apps to conscious companies/start-ups/scale ups that understand why life-work balance is extremely important for our quality of life as human beings.
 
 ⚡ &nbsp; Fun facts: I'm an enthusiastic of life coaching and development. Accompany other people to achieve their goals makes me feel more alive. Also, I am one of the founders of a specialty coffee shop in Buenos Aires. Infinite love for good coffee and people with out misterious human mind.
 
